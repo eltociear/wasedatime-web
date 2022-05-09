@@ -98,6 +98,7 @@
     "react-router-dom": "^6.2.2",
     "react-toastify": "^8.2.0",
     "react-waypoint": "9.0.3",
+    "recoil": "^0.7.3-alpha.1",
     "redux": "4.1.2",
     "redux-logger": "3.0.6",
     "redux-thunk": "2.4.1",
